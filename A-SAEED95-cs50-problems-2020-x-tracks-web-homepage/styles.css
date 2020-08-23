@@ -1,0 +1,41 @@
+.back
+{
+	background: #D1E5E5;
+	background: -moz-radial-gradient(center, #D1E5E5 0%, #C5E9EC 0%, #D1D1E0 100%);
+	background: -webkit-radial-gradient(center, #D1E5E5 0%, #C5E9EC 0%, #D1D1E0 100%);
+	background: radial-gradient(ellipse at center, #D1E5E5 0%, #C5E9EC 0%, #D1D1E0 100%);100%);
+}
+
+.font
+{
+	font-family: Georgia, serif;
+	font-size: 16px;
+	letter-spacing: 2px;
+	word-spacing: 2px;
+	color: #000000;
+	font-weight: normal;
+	text-decoration: none;
+	font-style: normal;
+	font-variant: normal;
+	text-transform: none;
+}
+
+.aligning
+{
+	text-align: center;
+}
+
+.table
+{
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.bigimage
+{
+  border: 1px;
+  border-radius: 1px;
+  padding: 1px;
+  width: 400px;
+  height: 250px;
+}
